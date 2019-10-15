@@ -63,7 +63,6 @@ def author_information_banner():
 Author: @TanoyBose
 
 Project Repo: https://github.com/n0tty/nau-tools
-Read The Wiki: https://github.cim/n0tty/nau-tools/wiki
 """)
 
 def nau_tools():
