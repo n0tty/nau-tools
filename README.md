@@ -59,6 +59,6 @@ The inject module has two basic usages
 
 To Do
 -------
-[*] More documentation
-[*] Research and bypass 802.1AE bypass
-[*] Code cleanup
+[\*] More documentation
+[\*] Research and bypass 802.1AE bypass
+[\*] Code cleanup
